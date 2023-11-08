@@ -26,7 +26,7 @@ Dream Maker fresh air system Custom components for Homeassistant
 
 ## 配置
 
-配置 > 设备与服务 >  集成 >  添加集成 > 搜索`haier`
+配置 > 设备与服务 >  集成 >  添加集成 > 搜索`Dream Maker`
 
 或者点击: [![添加集成](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start?domain=dream_maker)
 
