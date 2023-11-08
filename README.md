@@ -1,5 +1,6 @@
 # Dream-Maker
 Dream Maker fresh air system Custom components for Homeassistant
+
 全部代码从banto6/haier代码修改而来，小白一枚，也不知道怎么通知这位大神，在此感谢banto6。
 
 代码根据haier的api接口进行修改，由于本人只有两款zeico_1.0.0和3.0.0的设备，他俩带的贝贝空气是1.0.0和2.0.0的；再加上用早期v2版本接口的手机软件”造梦者新风“，其中的room方式获取传感器比较方便，便没有用造梦者+APP所使用的v3版本API；
